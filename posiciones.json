@@ -1,0 +1,302 @@
+[
+    {
+        "id_bike": 54,
+        "nombre": "Gayler",
+        "tipo": "BMX",
+        "tiempo": 50
+    },
+    {
+        "id_bike": 60,
+        "nombre": "Sylvan",
+        "tipo": "BMX",
+        "tiempo": 57
+    },
+    {
+        "id_bike": 98,
+        "nombre": "Sancho",
+        "tipo": "BMX",
+        "tiempo": 64
+    },
+    {
+        "id_bike": 77,
+        "nombre": "Zorine",
+        "tipo": "BMX",
+        "tiempo": 69
+    },
+    {
+        "id_bike": 51,
+        "nombre": "Falito",
+        "tipo": "BMX",
+        "tiempo": 69
+    },
+    {
+        "id_bike": 57,
+        "nombre": "Kania",
+        "tipo": "BMX",
+        "tiempo": 71
+    },
+    {
+        "id_bike": 52,
+        "nombre": "Hyacinthia",
+        "tipo": "BMX",
+        "tiempo": 79
+    },
+    {
+        "id_bike": 75,
+        "nombre": "Blayne",
+        "tipo": "BMX",
+        "tiempo": 85
+    },
+    {
+        "id_bike": 88,
+        "nombre": "Spenser",
+        "tipo": "BMX",
+        "tiempo": 90
+    },
+    {
+        "id_bike": 78,
+        "nombre": "Fern",
+        "tipo": "BMX",
+        "tiempo": 94
+    },
+    {
+        "id_bike": 100,
+        "nombre": "Violet",
+        "tipo": "BMX",
+        "tiempo": 94
+    },
+    {
+        "id_bike": 76,
+        "nombre": "Becki",
+        "tipo": "BMX",
+        "tiempo": 109
+    },
+    {
+        "id_bike": 92,
+        "nombre": "Keri",
+        "tipo": "BMX",
+        "tiempo": 111
+    },
+    {
+        "id_bike": 79,
+        "nombre": "Kalila",
+        "tipo": "MTB",
+        "tiempo": 66
+    },
+    {
+        "id_bike": 94,
+        "nombre": "Dorree",
+        "tipo": "MTB",
+        "tiempo": 66
+    },
+    {
+        "id_bike": 62,
+        "nombre": "Avis",
+        "tipo": "MTB",
+        "tiempo": 75
+    },
+    {
+        "id_bike": 91,
+        "nombre": "Buiron",
+        "tipo": "MTB",
+        "tiempo": 81
+    },
+    {
+        "id_bike": 68,
+        "nombre": "Jobie",
+        "tipo": "MTB",
+        "tiempo": 82
+    },
+    {
+        "id_bike": 93,
+        "nombre": "Richmound",
+        "tipo": "MTB",
+        "tiempo": 104
+    },
+    {
+        "id_bike": 59,
+        "nombre": "Ellerey",
+        "tipo": "MTB",
+        "tiempo": 105
+    },
+    {
+        "id_bike": 89,
+        "nombre": "Rollins",
+        "tipo": "MTB",
+        "tiempo": 105
+    },
+    {
+        "id_bike": 97,
+        "nombre": "Christi",
+        "tipo": "MTB",
+        "tiempo": 107
+    },
+    {
+        "id_bike": 58,
+        "nombre": "Damara",
+        "tipo": "MTB",
+        "tiempo": 108
+    },
+    {
+        "id_bike": 82,
+        "nombre": "Lisa",
+        "tipo": "PASEO",
+        "tiempo": 66
+    },
+    {
+        "id_bike": 87,
+        "nombre": "Izabel",
+        "tipo": "PASEO",
+        "tiempo": 70
+    },
+    {
+        "id_bike": 73,
+        "nombre": "Giorgio",
+        "tipo": "PASEO",
+        "tiempo": 71
+    },
+    {
+        "id_bike": 96,
+        "nombre": "Torie",
+        "tipo": "PASEO",
+        "tiempo": 76
+    },
+    {
+        "id_bike": 74,
+        "nombre": "Karrah",
+        "tipo": "PASEO",
+        "tiempo": 76
+    },
+    {
+        "id_bike": 63,
+        "nombre": "Herrick",
+        "tipo": "PASEO",
+        "tiempo": 82
+    },
+    {
+        "id_bike": 84,
+        "nombre": "Shea",
+        "tipo": "PASEO",
+        "tiempo": 97
+    },
+    {
+        "id_bike": 72,
+        "nombre": "Henriette",
+        "tipo": "PASEO",
+        "tiempo": 100
+    },
+    {
+        "id_bike": 70,
+        "nombre": "Jenda",
+        "tipo": "PASEO",
+        "tiempo": 103
+    },
+    {
+        "id_bike": 64,
+        "nombre": "Rolph",
+        "tipo": "PASEO",
+        "tiempo": 104
+    },
+    {
+        "id_bike": 80,
+        "nombre": "Celle",
+        "tipo": "PASEO",
+        "tiempo": 106
+    },
+    {
+        "id_bike": 99,
+        "nombre": "Somerset",
+        "tipo": "PASEO",
+        "tiempo": 110
+    },
+    {
+        "id_bike": 71,
+        "nombre": "Lynea",
+        "tipo": "PASEO",
+        "tiempo": 112
+    },
+    {
+        "id_bike": 85,
+        "nombre": "Laurens",
+        "tipo": "PASEO",
+        "tiempo": 120
+    },
+    {
+        "id_bike": 90,
+        "nombre": "Sol",
+        "tipo": "PLAYERA",
+        "tiempo": 57
+    },
+    {
+        "id_bike": 69,
+        "nombre": "Lothario",
+        "tipo": "PLAYERA",
+        "tiempo": 66
+    },
+    {
+        "id_bike": 65,
+        "nombre": "Kirbee",
+        "tipo": "PLAYERA",
+        "tiempo": 66
+    },
+    {
+        "id_bike": 95,
+        "nombre": "Essie",
+        "tipo": "PLAYERA",
+        "tiempo": 68
+    },
+    {
+        "id_bike": 81,
+        "nombre": "Auberta",
+        "tipo": "PLAYERA",
+        "tiempo": 69
+    },
+    {
+        "id_bike": 56,
+        "nombre": "Monique",
+        "tipo": "PLAYERA",
+        "tiempo": 89
+    },
+    {
+        "id_bike": 66,
+        "nombre": "Jimmie",
+        "tipo": "PLAYERA",
+        "tiempo": 95
+    },
+    {
+        "id_bike": 61,
+        "nombre": "Shannon",
+        "tipo": "PLAYERA",
+        "tiempo": 99
+    },
+    {
+        "id_bike": 83,
+        "nombre": "Adams",
+        "tipo": "PLAYERA",
+        "tiempo": 104
+    },
+    {
+        "id_bike": 53,
+        "nombre": "Mauricio",
+        "tipo": "PLAYERA",
+        "tiempo": 109
+    },
+    {
+        "id_bike": 67,
+        "nombre": "Buddie",
+        "tipo": "PLAYERA",
+        "tiempo": 109
+    },
+    {
+        "id_bike": 55,
+        "nombre": "Warren",
+        "tipo": "PLAYERA",
+        "tiempo": 114
+    },
+    {
+        "id_bike": 86,
+        "nombre": "Alla",
+        "tipo": "PLAYERA",
+        "tiempo": 117
+    }
+]
